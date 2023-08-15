@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwacreation3&label=Profile%20views&color=0e75b6&style=flat" alt="diwacreation3" /> </p>
 
-- 🔭 I’m currently working on [School management System](github.com/diwacreation3/sms)
+- 🔭 I'm Currently learning C++ and SFMl and game development 😉
 
-- 👨‍💻 All of my projects are available at [www.diwakar-phuyal.com.np](www.diwakar-phuyal.com.np)
+- 👨‍💻 Checkout mine portfolio website [www.diwakar-phuyal.com.np](www.diwakar-phuyal.com.np)
 
-- ⚡ Fun fact **I forget every thing when i start to code**
+- ⚡ Fun fact **I forget everything when i start to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
