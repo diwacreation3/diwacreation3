@@ -5,7 +5,7 @@
 
 - 🔭 I'm Currently learning C++ and SFMl and game development 😉
 
-- 👨‍💻 Checkout mine portfolio website [www.diwakar-phuyal.com.np](www.diwakar-phuyal.com.np)
+- 👨‍💻 Checkout mine portfolio website [https://diwakar-phuyal.com.np](www.diwakar-phuyal.com.np)
 
 - ⚡ Fun fact **I forget everything when i start to code**
 
