@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diwakar Phuyal</h1>
-<h3 align="center">A passionate Mobile and web developer from Nepal</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwacreation3&label=Profile%20views&color=0e75b6&style=flat" alt="diwacreation3" /> </p>
 
-- 🔭 I'm Currently learning C++ and SFMl and game development 😉
+- 🔭 I'm Currently learning C++ , Blender and game development 😉
 
 - 👨‍💻 Checkout mine portfolio website [https://diwakar-phuyal.com.np](www.diwakar-phuyal.com.np)
 
