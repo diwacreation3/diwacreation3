@@ -1,6 +1,8 @@
 # 💫 Hey! :
 🔭 I'm Currently Working on my indie Game<br>🪻 I'm Curious about everything <br>🌻Learning new things every day 
 
+## 🌿 Badges
+[![An image of @diwacreation3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diwacreation3)](https://holopin.io/@diwacreation3)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diwacreation3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diwacreation3) 
